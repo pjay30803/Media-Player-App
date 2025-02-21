@@ -85,15 +85,3 @@ flutter run
 ![ScreenShot 3](screenshots/03.jpg)
 ![ScreenShot 4](screenshots/04.jpg)
 
-🤝 Contribution
-
-Feel free to contribute to this project. Fork the repository and submit a pull request with improvements.
-
-📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-📧 Contact
-
-For any inquiries or suggestions, please contact [Your Email] or visit [Your GitHub Profile].
-
